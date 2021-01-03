@@ -1,5 +1,5 @@
 # omegle-geolocation
-
+![CodeQL](https://github.com/daniieljc/omegle-geolocation/workflows/CodeQL/badge.svg)
 ### REQUIREMENTS
 
 ```sh
